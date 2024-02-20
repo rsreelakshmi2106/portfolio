@@ -204,7 +204,7 @@ iframe:hover{
     margin-left: 0px;
     margin-bottom: 30px;
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:600px) and (min-width:300px){
     nav{
         width: 400px;
         height: 100px;
